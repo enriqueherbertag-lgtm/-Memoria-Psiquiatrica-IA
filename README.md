@@ -4,7 +4,7 @@
 
 ---
 
-## 📋 Descripción General
+##  Descripción General
 
 Memoria Fija v2.1 es un sistema de neuromodulación subcutánea implantado en la región retroauricular. Monitoriza marcadores fisiológicos de crisis psiquiátrica (agitación, arousal autonómico) e interviene automáticamente en menos de 60 segundos mediante estimulación piezoeléctrica adaptativa.
 
@@ -20,7 +20,7 @@ Para pacientes ambulatorios, incorpora **conectividad celular LTE-M** y un **ser
 
 ---
 
-## 📂 Estructura del Repositorio
+##  Estructura del Repositorio
 
 ### Documentación General
 - [`docs/problema-clinico.md`](docs/problema-clinico.md) - El problema que resuelve
