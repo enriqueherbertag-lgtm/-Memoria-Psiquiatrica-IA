@@ -6,7 +6,7 @@
 
 ##  Descripción General
 
-Memoria Fija v2.1 es un sistema de neuromodulación subcutánea implantado en la región retroauricular. Monitoriza marcadores fisiológicos de crisis psiquiátrica (agitación, arousal autonómico) e interviene automáticamente en menos de 60 segundos mediante estimulación piezoeléctrica adaptativa.
+Memoria-Psiquiatrica-IA es un sistema de neuromodulación subcutánea implantado en la región retroauricular. Monitoriza marcadores fisiológicos de crisis psiquiátrica (agitación, arousal autonómico) e interviene automáticamente en menos de 60 segundos mediante estimulación piezoeléctrica adaptativa.
 
 Para pacientes ambulatorios, incorpora **conectividad celular LTE-M** y un **servidor de filtrado con IA** que clasifica el riesgo y solo notifica al médico cuando es clínicamente relevante.
 
