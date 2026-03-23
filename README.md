@@ -1,4 +1,4 @@
-# Memoria Fija v2.1 - Sistema de Neuromodulación Psiquiátrica Subcutánea
+#Memoria-Psiquiatrica-IA - Sistema de Neuromodulación Psiquiátrica Subcutánea
 
 **Dispositivo implantable autónomo para la detección y prevención de crisis en pacientes con trastornos psiquiátricos graves, con conectividad dual (Bluetooth + LTE-M) y clasificador IA en la nube.**
 
