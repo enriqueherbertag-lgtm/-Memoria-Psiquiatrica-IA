@@ -1,5 +1,7 @@
 #Memoria-Psiquiatrica-IA - Sistema de Neuromodulación Psiquiátrica Subcutánea
 
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+
 **Dispositivo implantable autónomo para la detección y prevención de crisis en pacientes con trastornos psiquiátricos graves, con conectividad dual (Bluetooth + LTE-M) y clasificador IA en la nube.**
 
 ---
