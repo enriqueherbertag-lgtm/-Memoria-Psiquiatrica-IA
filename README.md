@@ -106,10 +106,4 @@ GitHub: [@enriqueherbertag-lgtm](https://github.com/enriqueherbertag-lgtm)
 
 ---
 
-##  Licencia
-
-El código y documentación de este repositorio están protegidos bajo **Apache 2.0 con restricción de uso comercial**. Para uso comercial se requiere acuerdo por escrito con el autor.
-
----
-
 > *"Un paciente psiquiátrico no es peligroso. Está en peligro. Y necesita ayuda antes de que sea tarde."*
