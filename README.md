@@ -4,16 +4,10 @@
 
 **Dispositivo implantable autónomo para la detección y prevención de crisis en pacientes con trastornos psiquiátricos graves, con conectividad dual (Bluetooth + LTE-M) y clasificador IA en la nube.**
 
+<img width="191" height="20" alt="image" src="https://github.com/user-attachments/assets/8149396e-7e71-455e-8d7b-9942503e1154" />
+
+
 ---
-
-## Cita
-
-Si usás Goliat-Orbital en tu investigación, por favor citá:
-
-Aguayo H., E. (2026). Goliat-Orbital: Captura y reciclaje de basura espacial (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.<img width="191" height="20" alt="image" src="https://github.com/user-attachments/assets/aef13877-2848-4e52-9e13-a2036f681dd7" />
-
-
-
 
 ##  Descripción General
 
